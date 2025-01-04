@@ -3,7 +3,6 @@
 - 🌱 I’m 3rd year computer science student ...
 - 💞️ I’m looking to learn and work
 - 📫 How to reach me ...nknikhil082@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... sarcastic and humourous
 
 <!---
